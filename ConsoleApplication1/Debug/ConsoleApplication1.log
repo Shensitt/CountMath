@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(19,20): warning C4552: '>': result of expression not used
+  ConsoleApplication1.vcxproj -> E:\projectsCOUNTMATH\ConsoleApplication1\Debug\ConsoleApplication1.exe
