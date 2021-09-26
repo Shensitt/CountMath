@@ -1,3 +1,19 @@
 ﻿  ConsoleApplication1.cpp
-E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(19,20): warning C4552: '>': result of expression not used
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0446' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+E:\projectsCOUNTMATH\ConsoleApplication1\ConsoleApplication1.cpp(18,10): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
   ConsoleApplication1.vcxproj -> E:\projectsCOUNTMATH\ConsoleApplication1\Debug\ConsoleApplication1.exe
